@@ -1,0 +1,18 @@
+no main in applet
+no calling of funtion in java
+
+to run applet 2 things
+1. applet viewer:just to test code ..so that we dont have to embed code again and again with html code.
+2. web browser:need to install plugins>>
+
+APPLET:keyword
+code :attribute 
+.class file after compiler compiles the class
+code ="....class"
+/* */ or //comment in java 
+
+
+
+C:\Program Files (x86)\Common Files\Oracle\Java\javapath
+
+C:\Program Files\Common Files\Oracle\Java\javapath
